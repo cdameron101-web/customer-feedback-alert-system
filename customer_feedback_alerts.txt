@@ -1,0 +1,17 @@
+CUSTOMER FEEDBACK ALERT REPORT
+========================================
+
+Customers requiring attention: 3
+
+WARNING: Maya
+Rating: 2/5
+Feedback: My order arrived late and customer service never responded.
+----------------------------------------
+CRITICAL: Alex
+Rating: 1/5
+Feedback: I was charged twice! I need a refund immediately.
+----------------------------------------
+CRITICAL: Morgan
+Rating: 1/5
+Feedback: My account was hacked and I see unauthorized charges!
+----------------------------------------
